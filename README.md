@@ -23,6 +23,6 @@ Projeto de estudo em **Data Science** inspirado em um case do iFood, com foco em
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Scikit-learn  # 🍔 Case iFood — Data Science
+- Scikit-learn
 
 
